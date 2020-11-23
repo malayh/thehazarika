@@ -11,8 +11,8 @@ This is a curated collection of useful things accompanying my blog.
 # Content
 
 * ## SOLID Principles
-    - Article: [How to use SOLID as a framework to approach design problems](http://link)
-    - Article: [Design mistakes you will make as software engineer]()
+    - Article: [How to use SOLID as a framework to approach design problems](http://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)
+    - Article: [Design mistakes you will make as software engineer](http://thehazarika.com/blog/programming/design-mistakes-you-will-make-as-software-developer/)
     - Article: [Relevence of Solid](http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) 
     - Papers: [Papers on Solid principles](https://github.com/malayh/thehazarika/tree/main/Papers/SOLID_Principles)
 
