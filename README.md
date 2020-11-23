@@ -14,7 +14,7 @@ This is a curated collection of useful things accompanying my blog.
     - Article: [How to use SOLID as a framework to approach design problems](http://link)
     - Article: [Design mistakes you will make as software engineer]()
     - Article: [Relevence of Solid](http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) 
-    - Papers: Papers on Solid principles(https://github.com/malayh/thehazarika/tree/main/Papers/SOLID_Principles)
+    - Papers: [Papers on Solid principles](https://github.com/malayh/thehazarika/tree/main/Papers/SOLID_Principles)
 
     - Video: [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://youtu.be/t86v3N4OshQ)
     - Vides: ["Uncle" Bob Martin - "The Future of Programming"](https://youtu.be/ecIWPzGEbFc)
