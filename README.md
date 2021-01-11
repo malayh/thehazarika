@@ -25,7 +25,7 @@ This is series of articles discussing ideas on low level system design
     - Video: [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
     
 ## Reinvent the wheel
-This is a series where I will explore cool systems and explore them from scatch
+This is a series where I will explore cool systems/algorithms and implement them from scatch
 - [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
     - In this article I have explained how RSA works, how the mathematics were put together.
     - [rtw_RSA](https://github.com/malayh/rtw_RSA) is a repository where implemented a working version of RSA to encrypt files using RSA. It's written in C++.
