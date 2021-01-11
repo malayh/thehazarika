@@ -10,14 +10,24 @@ This is a curated collection of useful things accompanying my blog.
 
 # Content
 
-* ## SOLID Principles
-    - Article: [How to use SOLID as a framework to approach design problems](http://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)
-    - Article: [Design mistakes you will make as software engineer](http://thehazarika.com/blog/programming/design-mistakes-you-will-make-as-software-developer/)
-    - Article: [Relevence of Solid](http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) 
-    - Papers: [Papers on Solid principles](https://github.com/malayh/thehazarika/tree/main/Papers/SOLID_Principles)
-
-    - Video: [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://youtu.be/t86v3N4OshQ)
-    - Vides: ["Uncle" Bob Martin - "The Future of Programming"](https://youtu.be/ecIWPzGEbFc)
-    - Video: [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
+* ## Low level design
+This is series of articles discussing ideas on low level system design
+    - Aricles    
+        - [How to use SOLID as a framework to approach design problems](http://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)
+        - [Design mistakes you will make as software engineer](http://thehazarika.com/blog/programming/design-mistakes-you-will-make-as-software-developer/)
+        
+    - Other resouces
+        - Article: [Relevence of Solid](http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) 
+        - Papers: [Papers on Solid principles](https://github.com/malayh/thehazarika/tree/main/Papers/SOLID_Principles)
+        - Video: [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://youtu.be/t86v3N4OshQ)
+        - Vides: ["Uncle" Bob Martin - "The Future of Programming"](https://youtu.be/ecIWPzGEbFc)
+        - Video: [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
+    
+* ## Reinvent the wheel
+This is a series where I will explore cool systems and explore them from scatch
+    - [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
+        - In this article I have explained how RSA works, how the mathematics were put together.
+        - [rtw_RSA](https://github.com/malayh/rtw_RSA) is a repository where implemented a working version of RSA to encrypt files using RSA. It's written in C++.
+        - 
 
 
