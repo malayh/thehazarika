@@ -15,7 +15,6 @@ This is a curated collection of useful things accompanying my blog.
     - Article: [Design mistakes you will make as software engineer]()
     - Article: [Relevence of Solid](http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) 
     - Papers: Papers on Solid principles
-
     - Video: [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://youtu.be/t86v3N4OshQ)
     - Vides: ["Uncle" Bob Martin - "The Future of Programming"](https://youtu.be/ecIWPzGEbFc)
     - Video: [The Principles of Clean Architecture by Uncle Bob Martin](https://youtu.be/o_TH-Y78tt4)
